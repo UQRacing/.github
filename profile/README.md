@@ -6,7 +6,7 @@ for our electric and autonomous vehicles.
 
 For more information, please visit: https://www.uqracing.com/
 
-For questions relating to this GitHub or our code in general, please contact our Software Lead: Matt Young (matt.young@uqracing.com)
+For questions relating to this GitHub or our code in general, please contact our Software Lead: Madeleine Warner (m.warner@uqconnect.edu.au)
 
 ## It's empty here!
 Internally, we have more than 30 repositories covering topics from ROS, to simulators, to firmware for various microcontrollers.
